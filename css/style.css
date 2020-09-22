@@ -156,7 +156,7 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url("https://instagram.fluh2-1.fna.fbcdn.net/v/t51.2885-15/e35/36530397_259957974591588_2154832354223325184_n.jpg?_nc_ht=instagram.fluh2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ciSSBPSqcRoAX-ygsBK&_nc_tp=18&oh=db1ca6f28c66f23c5b8f5d0b41d97a72&oe=5F935E5C") no-repeat center center;
+  background: url("https://instagram.fluh2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/18645085_444320625930710_8534269582460846080_n.jpg?_nc_ht=instagram.fluh2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4S5c_x5duKkAX8Pe6tb&oh=edc713316760e965afaec523fd9bbe5f&oe=5F9484C0") no-repeat center center;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
@@ -177,12 +177,12 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 #headerwrap h3 {
   font-size: 20px;
-  color: rgb(0, 0, 0);
+  color:white;
 }
 
 /* Intnro Wrap */
